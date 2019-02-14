@@ -5,5 +5,5 @@ Hobby project, visuals for music.
 
 Converted to textfile with petcat included with VICE:
 ```
-petcat.exe -2 -o flickerfader.txt -- flickerfader.prg
+petcat.exe -2 -o flickerfader.bas -- flickerfader.prg
 ```
